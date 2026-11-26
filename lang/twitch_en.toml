@@ -1,0 +1,4 @@
+module_twitch = "Twitch"
+
+mt_twitch_overview = "twitchs"
+md_twitch_overview = "Overview of twitch"
